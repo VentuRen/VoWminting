@@ -147,12 +147,12 @@ function App() {
     SHOW_BACKGROUND: false,
   });
 
-  let cost= data.cost*1614.94;
+  let cost= data.cost*1614.94/5;
   if(data.whitelisted){
      cost= 0;
   }
   else{
-    cost= data.cost*1614.94
+    cost= data.cost*1614.94/3.5
   }
   const claimNFTs = () => {
     
