@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x81FF4Fa46EB98b3BE16693f1518EdCe60a8d3c21",
+  "SCAN_LINK": "https://polygonscan.com/address/0x81FF4Fa46EB98b3BE16693f1518EdCe60a8d3c21",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "VoWs",
+  "SYMBOL": "VoW",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 51000000000000000000,
+  "DISPLAY_COST": 51,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "OpenSea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/vownfts",
+  "SHOW_BACKGROUND": true
+}
