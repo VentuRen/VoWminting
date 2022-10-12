@@ -170,6 +170,7 @@ function App() {
         gasLimit: String(totalGasLimit),
         to: CONFIG.CONTRACT_ADDRESS,
         from: blockchain.account,
+        gasPrice: 40000000000,
         value: totalCostWei,
       })
       
